@@ -1,1 +1,4 @@
 # Project_Data_Science
+
+- Loan_Eligibility_Prediction.ipynb
+The Loan Eligibility Prediction project aims to develop a machine learning model that evaluates loan eligibility based on critical applicant features, including Credit Score, Annual Income, Current Loan Amount, and Home Ownership status. By utilizing classification algorithms such as Gradient Boosting, Logistic Regression, Random Forest, and XGBoost, the project seeks to accurately classify applicants as eligible or ineligible for loans. The model's performance is assessed using essential metrics like precision, recall, F1 score, and ROC-AUC, ensuring a robust evaluation of its effectiveness. This project highlights the significance of data-driven decision-making in the financial sector, providing valuable insights to financial institutions for optimizing loan approval processes and resource allocation.
